@@ -1,0 +1,32 @@
+_repo: The-Southern-Literary-Messenger-Volume-I-1834-35_59553
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+  editors:
+  - agent_name: Sparhawk, Edward Vernon
+    alias: Sparhawk, E. V. (Edward Vernon)
+    birthdate: 1798
+    deathdate: 1838
+    gutenberg_agent_id: '49663'
+    url: http://www.gutenberg.org/2009/agents/49663
+    wikipedia: https://en.wikipedia.org/wiki/Edward_Vernon_Sparhawk
+  - agent_name: Heath, James E.
+    gutenberg_agent_id: '46407'
+    url: http://www.gutenberg.org/2009/agents/46407
+description: ''
+gutenberg_issued: '2019-05-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '59553'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Southern Literary Messenger, Volume I., 1834-35
+url: http://www.gutenberg.org/ebooks/59553
